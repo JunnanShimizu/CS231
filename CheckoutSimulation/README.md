@@ -1,4 +1,4 @@
-# CheckoutSimulation
+# CheckoutSimulation (Project 5)
 A queue-based checkout line simulation to compare the performance of three different algorithms for selecting a queue.
 
 To run different CheckoutSimulations, run in the terminal:
