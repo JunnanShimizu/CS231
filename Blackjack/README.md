@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack (Project 1)
 #### Blackjack Game implementation in the terminal.
 &nbsp;
 
